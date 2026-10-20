@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1004,
+    "name": "Cam 1004 - Sudut Ruangan 004",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung A / Ruang Administrasi",
+    "category": "Ruang Administrasi",
+    "status": "online",
+    "streamUrl": null
+  },
+  {
+    "id": 1005,
+    "name": "Cam 1005 - Akses Samping 005",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung B / Kelas 1–3",
+    "category": "Kelas 1–3",
+    "status": "online",
+    "streamUrl": null
+  },
+  {
+    "id": 1006,
+    "name": "Cam 1006 - Gerbang Utama 006",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Area Luar / Gerbang Utama",
+    "category": "Akses Masuk",
+    "status": "offline",
+    "streamUrl": null
+  },
+  {
+    "id": 1007,
+    "name": "Cam 1007 - Koridor Gedung A 007",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung A / Koridor Lantai 1",
+    "category": "Koridor",
+    "status": "online",
+    "streamUrl": null
+  },
+  {
+    "id": 1008,
+    "name": "Cam 1008 - Perpustakaan 008",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung A / Perpustakaan",
+    "category": "Perpustakaan",
+    "status": "online",
+    "streamUrl": null
+  },
+  {
+    "id": 1009,
+    "name": "Cam 1009 - Lapangan 009",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Area Luar / Lapangan",
+    "category": "Fasilitas Olahraga",
+    "status": "offline",
+    "streamUrl": null
+  },
+  {
+    "id": 1010,
+    "name": "Cam 1010 - Kantin 010",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung B / Kantin",
+    "category": "Kantin",
+    "status": "online",
+    "streamUrl": null
+  },
+  {
+    "id": 1011,
+    "name": "Cam 1011 - Ruang Guru 011",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Gedung A / Ruang Guru",
+    "category": "Ruang Guru",
+    "status": "offline",
+    "streamUrl": null
+  },
+  {
+    "id": 1012,
+    "name": "Cam 1012 - Parkiran 012",
+    "location": "Sekolah Karakter Podomoro — Jakarta",
+    "area": "Area Luar / Parkiran",
+    "category": "Parkir",
+    "status": "online",
+    "streamUrl": null
+  }
+]

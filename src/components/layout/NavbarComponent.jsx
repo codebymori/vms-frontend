@@ -1,4 +1,5 @@
-import { Bell, ChevronDown, Search } from "lucide-react";
+import { ChevronDown, Search } from "lucide-react";
+import AllertNotification from "../allerts/AllertNotification";
 
 
 const NavbarComponent = () => {
@@ -17,16 +18,7 @@ const NavbarComponent = () => {
       </label>
 
       <div className="flex shrink-0 items-center gap-7 text-[#203A5C]">
-        <button
-          type="button"
-          aria-label="Notifikasi, 38 notifikasi"
-          className="relative flex h-10 w-10 items-center justify-center"
-        >
-          <Bell size={24} aria-hidden="true" />
-          <span className="absolute -right-0 -top-1 flex h-5 min-w-5 items-center justify-center rounded-full bg-[#E94B55] px-1 text-[9px] font-medium text-white">
-            38
-          </span>
-        </button>
+        <AllertNotification />
 
         <button type="button" className="flex items-center gap-3 font-semibold">
           <span className="flex h-9 w-9 items-center justify-center rounded-full bg-[#203A5C] text-[16px] text-white">
